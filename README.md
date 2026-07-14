@@ -2,6 +2,7 @@
 
 ## Demo
 > **Click the GIF below to watch the full demo on YouTube.**
+
 [![Watch the HowDoYouSeeTheWorld Demo](HowDoYouSeeTheWorld.gif)](https://www.youtube.com/watch?v=qpcqHmuG72w)
 
 ## Description:
